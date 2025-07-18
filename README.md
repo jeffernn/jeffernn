@@ -1,5 +1,6 @@
 <div align="center">
   <h1>🎉欢迎访问🎉</h1>
+   <img src="https://komarev.com/ghpvc/?username=Jeffernn&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
 ---
@@ -34,14 +35,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jeffernn&show_icons=true&theme=Default&locale=cn&hide=prs&rank_icon=github" alt="logo" />
 </div>
-
----
-
-## 🕒 近期动态
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeffernn&theme=dracula&hide_border=true&area=true&custom_title=GitHub%20活动图" alt="GitHub 活动图" />
 </div>
-
 ---
 
 ## 🌐 我的项目
@@ -53,14 +49,8 @@
 
 ---
 <div align="center">
-  <p>“代码是我的画布，技术是我的笔刷。”</p>
-  <p>感谢访问我的GitHub！期待与你一起探索代码的无限可能！✨</p>
-</div>
-
-<div align="center">
   <a href="mailto:Jeffern1030@gmail.com"><img src="https://img.shields.io/badge/邮箱-Jeffern1030@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="邮箱" />
   </a>
-    <img src="https://komarev.com/ghpvc/?username=Jeffernn&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
 ---
