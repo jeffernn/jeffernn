@@ -12,14 +12,14 @@
 ## 🛠️ 技术栈
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white&label=Vue.js" alt="Vue" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white&label=Java" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white&label=Python" alt="Python" />
-  <img src="https://img.shields.io/badge/Objective--C-3C99D4?style=flat-square&logo=Apple&logoColor=white&label=Objective-C" alt="Objective-C" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black&label=JavaScript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white&label=Django" alt="Django" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white&label=HTML5" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white&label=CSS3" alt="CSS" />
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Objective--C-3C99D4?style=flat-square&logo=Apple&logoColor=white" alt="Objective-C" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="CSS" />
 </div>
 
 ---
