@@ -30,10 +30,10 @@
 
 ## 📊 GitHub 统计
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeffernn&show_icons=true&theme=dracula&hide_border=true&title_color=ffffff&text_color=ffffff&locale=cn" alt="GitHub 统计" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffernn&layout=compact&theme=dracula&hide_border=true&title_color=ffffff&text_color=ffffff&locale=cn" alt="主要编程语言" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffernn&layout=compact&theme=dracula&hide_border=true&title_color=ffffff&text_color=ffffff&locale=cn" alt="主要编程语言" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeffernn&show_icons=true&theme=dracula&hide_border=true&title_color=ffffff&text_color=ffffff&locale=cn" alt="GitHub 统计" />
 </div>
 
 ---
