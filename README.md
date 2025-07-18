@@ -1,20 +1,17 @@
 <div align="lift">
-  <h1>🎉欢迎访问🎉</h1>
+  <h1>欢迎来到我的主页🎉</h1>
    <img src="https://komarev.com/ghpvc/?username=Jeffernn&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
 ---
 
-## 🌟 关于我
-大家好！我是 **Jeffernn**，一名充满热情的 **软件工程专业大三学生**，致力于用代码创造价值。我喜欢探索前沿技术、参与开源项目，并通过编程解决现实问题。🚀
+## 🌟 
 
-- 🌱 **正在学习**：Python/Java等
-- 📫 **联系方式**：Jeffern1030@gmail.com
-- ⚡ **兴趣爱好**：开发一些有趣有用的脚本/软件，方便自身的同时造福大家
-
+大家好！我是 **Jeffernn**，一名充满热情的 **软件工程专业大三学生**，致力于用代码创造价值。我喜欢参与开源项目，并通过编程解决现实问题，开发一些有趣有用的脚本/软件，方便自身的同时造福大家。🚀
 ---
 
 ## 🛠️ 技术栈
+
 <div align="center">
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white&label=Vue.js" alt="Vue" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white&label=Java" alt="Java" />
@@ -29,6 +26,7 @@
 ---
 
 ## 📊 GitHub 统计
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffernn&layout=compact&theme=dracula&hide_border=true&title_color=ffffff&text_color=ffffff&locale=cn" alt="主要编程语言" />
 </div>
@@ -41,6 +39,7 @@
 ---
 
 ## 🌐 我的项目
+
 以下是我的一些精选项目，欢迎探索和贡献！👇
 
 - **[LibreTV-MoonTV-Mac-Objective-C](https://github.com/jeffernn/LibreTV-MoonTV-Mac-Objective-C)**：一个基于Objective-C开发的Mac端视频流媒体应用，支持多平台视频流播放。
