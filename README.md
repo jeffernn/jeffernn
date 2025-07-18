@@ -39,13 +39,6 @@
 
 ---
 
-## 🏆 成就与贡献
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jeffernn&theme=onedark&no-frame=true&margin-w=10&title=Stars,Repositories,Commits,PullRequest,Followers,Issues" alt="GitHub 成就" />
-</div>
-
----
-
 ## 🕒 近期动态
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeffernn&theme=dracula&hide_border=true&area=true&custom_title=Jeffernn%20的%20GitHub%20活动图" alt="GitHub 活动图" />
