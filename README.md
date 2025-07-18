@@ -40,7 +40,7 @@
 
 ## 🕒 近期动态
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeffernn&theme=dracula&hide_border=true&area=true&custom_title=Jeffernn%20的%20GitHub%20活动图" alt="GitHub 活动图" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeffernn&theme=dracula&hide_border=true&area=true&custom_title=GitHub%20活动图" alt="GitHub 活动图" />
 </div>
 
 ---
@@ -57,11 +57,6 @@
 ## 📬 联系我
 <div align="center">
   <a href="mailto:Jeffern1030@gmail.com"><img src="https://img.shields.io/badge/邮箱-Jeffern1030@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="邮箱" /></a>
-  <a href="https://x.com/Jeffernn"><img src="https://img.shields.io/badge/X-@Jeffernn-000000?style=flat-square&logo=X&logoColor=white" alt="X" /></a>
-  <a href="[你的个人网站链接]"><img src="https://img.shields.io/badge/网站-博客-000000?style=flat-square&logo=About.me&logoColor=white" alt="网站" /></a>
-</div>
-
-💬 欢迎在我的项目中提出Issue或PR，也可以通过邮件与我交流！
 
 ---
 
