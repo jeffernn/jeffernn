@@ -1,4 +1,4 @@
-<div align="center">
+<div align="lift">
   <h1>🎉欢迎访问🎉</h1>
    <img src="https://komarev.com/ghpvc/?username=Jeffernn&style=flat-square&color=blue" alt="Profile Views" />
 </div>
