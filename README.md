@@ -24,7 +24,6 @@
 
 ---
 
-## 📊 相关统计
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffernn&layout=compact&theme=Default&show_icons=true&locale=cn&hide=prs&rank_icon=github&custom_width=500" alt="主要编程语言" />
