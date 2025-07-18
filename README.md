@@ -33,8 +33,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Jeffernn&show_icons=true&theme=Default&locale=cn&hide=prs&rank_icon=github" alt="logo" />
 </div>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeffernn&theme=Default&hide_border=ture&area=true&custom_title=GitHub%20活动图" alt="GitHub 活动图" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeffernn&theme=dracula&hide_border=ture&area=true&custom_title=GitHub%20活动图" alt="GitHub 活动图" />
 </div>
+
 ---
 
 ## 🌐 我的项目
