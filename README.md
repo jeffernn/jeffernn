@@ -7,10 +7,7 @@
 
 - 🐟️我是 **Jeffernn**，一名普通的 **软件工程专业大三学生**，致力于用代码创造价值。
 - 💖我喜欢参与开源项目，并通过编程解决现实问题，开发一些有趣有用的脚本/软件，方便自身的同时造福大家。
-  <div align="center">
-  <a href="mailto:Jeffern1030@gmail.com"><img src="https://img.shields.io/badge/邮箱-Jeffern1030@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="邮箱" />
-  </a>
-</div>
+
 ---
 
 ## 🛠️ 技术栈
