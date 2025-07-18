@@ -24,7 +24,7 @@
 
 ---
 
-## 📊 GitHub 统计
+## 📊 相关统计
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffernn&layout=compact&theme=Default&show_icons=true&locale=cn&hide=prs&rank_icon=github&custom_width=500" alt="主要编程语言" />
@@ -35,16 +35,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeffernn&theme=dracula&hide_border=ture&area=true&custom_title=GitHub%20活动图" alt="GitHub 活动图" />
 </div>
-
----
-
-## 🌐 我的项目
-
-以下是我的一些精选项目，欢迎探索和贡献！👇
-
-- **[LibreTV-MoonTV-Mac-Objective-C](https://github.com/jeffernn/LibreTV-MoonTV-Mac-Objective-C)**：一个基于Objective-C开发的Mac端视频流媒体应用，支持多平台视频流播放。
-- **[airport-auto-api-checkin](https://github.com/jeffernn/airport-auto-api-checkin)**：一个自动化机场API签到工具，简化用户签到流程。
-- **[Telegram-bot-auto-checkin](https://github.com/jeffernn/Telegram-bot-auto-checkin)**：一个基于Telegram的自动签到机器人，集成多任务调度。
 
 ---
 <div align="center">
