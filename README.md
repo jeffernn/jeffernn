@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 欢迎来到 Jeffernn 的 GitHub 主页！</h1>
-  <img src="https://komarev.com/ghpvc/?username=Jeffernn&style=flat-square&color=blue&label=主页访问量" alt="主页访问量" />
+  <img src="https://komarev.com/ghpvc/?username=Jeffernn&style=flat-square&color=blue&label=主页访问量" alt="访问量" />
 </div>
 
 ---
