@@ -34,7 +34,6 @@
 </div>
 <img src="https://github-readme-stats.vercel.app/api?username=Jeffernn&show_icons=true&theme=Default&locale=cn&hide=prs&rank_icon=github" alt="logo" align="right" width="50%" />
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeffernn&show_icons=true&theme=dracula&hide_border=true&title_color=ffffff&text_color=ffffff&locale=cn" alt="GitHub 统计" />
 </div>
 
 ---
