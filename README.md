@@ -27,7 +27,7 @@
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffernn&layout=compact&theme=Default&show_icons=true&locale=cn&hide=prs&rank_icon=github" alt="主要编程语言" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffernn&layout=compact&theme=Default&show_icons=true&locale=cn&hide=prs&rank_icon=github&custom_width=500" alt="主要编程语言" />
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jeffernn&show_icons=true&theme=Default&locale=cn&hide=prs&rank_icon=github" alt="logo" />
