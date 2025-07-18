@@ -30,23 +30,23 @@
 
 ## 📊 GitHub 统计
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeffernn&show_icons=true&theme=dracula&hide_border=true" alt="Jeffernn's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffernn&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeffernn&show_icons=true&theme=dracula&hide_border=true&title_color=ffffff&text_color=ffffff&locale=cn" alt="GitHub 统计" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffernn&layout=compact&theme=dracula&hide_border=true" alt="主要编程语言" />
 </div>
 
 ---
 
 ## 🏆 成就与贡献
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jeffernn&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeffernn&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jeffernn&theme=onedark&no-frame=true&margin-w=10" alt="GitHub 成就" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeffernn&theme=dracula&hide_border=true" alt="GitHub 连续贡献" />
 </div>
 
 ---
 
 ## 🕒 近期动态
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeffernn&theme=dracula&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeffernn&theme=dracula&hide_border=true&area=true" alt="GitHub 活动图" />
 </div>
 
 ---
@@ -62,7 +62,7 @@
 
 ## 📬 联系我
 <div align="center">
-  <a href="mailto:Jeffern1030@gmail.com"><img src="https://img.shields.io/badge/Email-Jeffern1030@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:Jeffern1030@gmail.com"><img src="https://img.shields.io/badge/Email-Jeffern1030@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="邮箱" /></a>
 </div>
 
 
