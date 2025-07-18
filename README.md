@@ -53,8 +53,11 @@
 - **[Telegram-bot-auto-checkin](https://github.com/jeffernn/Telegram-bot-auto-checkin)**：一个基于Telegram的自动签到机器人，集成多任务调度。
 
 ---
+<div align="center">
+  <p>“代码是我的画布，技术是我的笔刷。”</p>
+  <p>感谢访问我的GitHub！期待与你一起探索代码的无限可能！✨</p>
+</div>
 
-## 📬 联系我
 <div align="center">
   <a href="mailto:Jeffern1030@gmail.com"><img src="https://img.shields.io/badge/邮箱-Jeffern1030@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="邮箱" /></a>
 
