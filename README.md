@@ -65,7 +65,6 @@
   <a href="mailto:Jeffern1030@gmail.com"><img src="https://img.shields.io/badge/Email-Jeffern1030@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email" /></a>
 </div>
 
-💬 欢迎在我的项目中提出Issue，也可以通过邮件与我交流！
 
 ---
 
