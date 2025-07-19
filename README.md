@@ -38,8 +38,6 @@
 
 ---
 
-## 📬 联系我
-
 <div align="center" style="display: flex; gap: 10px; margin: 20px 0;">
     <img src="https://img.shields.io/badge/Email-Jeffern1030@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email" />
   <img src="https://komarev.com/ghpvc/?username=Jeffernn&style=flat-square&color=blue" alt="Profile Views" />
