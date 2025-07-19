@@ -3,7 +3,7 @@
 <div align="left">
   <p>👋 我是 <strong>Jeffern</strong>，一名热爱编程的软工大三学生！</p>
   <p>💻 热衷于参与开源项目，通过代码解决实际问题，开发有趣且实用的脚本与软件，为自己和他人带来便利。</p>
-  <p>✨ 有一些很有意思的学校项目，我会在毕业后🎓看情况开源。</p>
+  <p>🎓 有一些很有趣的校园项目，我会在毕业后开源。</p>
   <details>
   <summary>点击查看举例项目截图</summary>
   <img width="290" height="202" alt="image" src="https://github.com/user-attachments/assets/6795ca62-42b4-4d2b-8258-ad77bac44739" />
