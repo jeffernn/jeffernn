@@ -22,9 +22,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="CSS" />
 </div>
 
----
-
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffernn&layout=compact&theme=Default&show_icons=true&locale=cn&hide=prs&rank_icon=github&custom_width=500" alt="主要编程语言" />
 </div>
@@ -36,7 +33,7 @@
 </div>
 
 ---
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Email-Jeffern1030@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email" />
   <img src="https://komarev.com/ghpvc/?username=Jeffernn&style=flat-square&color=blue" alt="Profile Views" />
 </div>
