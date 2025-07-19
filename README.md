@@ -4,8 +4,8 @@
 
 ---
 
-- 🐟️我是 **Jeffernn**，致力于用代码创造价值。
-- 💖我喜欢参与开源项目，并通过编程解决现实问题，开发一些有趣有用的脚本/软件，方便自身的同时造福大家。
+- 🐟️我是 **Jeffern一名普通的软工大三生n**。
+- 💖我Like参与开源项目，并通过编程解决现实问题，开发一些有趣有用的脚本/软件，方便自身的同时造福大家。
 
 ---
 
@@ -37,7 +37,7 @@
 
 ---
 <div align="left">
-  <img src="https://img.shields.io/badge/邮箱-Jeffern1030@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="邮箱" />
+  <img src="https://img.shields.io/badge/邮箱-Jeffern1030@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email" />
   <img src="https://komarev.com/ghpvc/?username=Jeffernn&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
