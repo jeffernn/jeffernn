@@ -3,9 +3,8 @@
 # 欢迎来到我的主页 🎉
 
 <div align="left">
-  <p>👋 我是 <strong>Jeffern</strong>，一名普通的软工大三学生！</p>
+  <p>👋 我是 <strong>Jeffern</strong>，软工大三学生！</p>
   <p>💻 热衷于参与开源项目，通过代码解决实际问题，开发有趣且实用的脚本与软件，为自己和他人带来便利。</p>
-  <p>🎓 有一些很有趣的校园项目，我会在毕业后开源。</p>
 
 ---
 
@@ -41,6 +40,5 @@
 ---
 
 <div align="center" style="display: flex; gap: 10px; margin: 20px 0;">
-    <img src="https://img.shields.io/badge/Email-Jeffern1030@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email" />
   <img src="https://komarev.com/ghpvc/?username=Jeffernn&style=flat-square&color=blue" alt="Profile Views" />
 </div>
