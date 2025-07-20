@@ -3,7 +3,7 @@
 # 欢迎来到我的主页 🎉
 
 <div align="left">
-  <p>👋 我是 <strong>Jeffern</strong>，软工大三学生！</p>
+  <p>👋 我是 <strong>Jeffern</strong>，一名软工大三学生。</p>
   <p>💻 热衷于参与开源项目，通过代码解决实际问题，开发有趣且实用的脚本与软件，为自己和他人带来便利。</p>
 
 ---
