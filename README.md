@@ -8,7 +8,7 @@
 </div>
 ---
 
-## 🛠️ 我掌握的技术栈
+## 🛠️ 掌握的技术栈
 
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 10px; max-width: 600px; margin: 20px auto;">
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" alt="Vue" />
