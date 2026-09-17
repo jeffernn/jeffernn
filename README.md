@@ -25,14 +25,6 @@
 
 ---
 
-## 📊 GitHub 统计
-
-<div align="left" style="margin: 20px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeffernn&theme=dracula&hide_border=true&area=true&custom_title=GitHub%20活动图" alt="GitHub 活动图" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-</div>
-
----
-
 <div align="center" style="display: flex; gap: 10px; margin: 20px 0;">
   <img src="https://komarev.com/ghpvc/?username=Jeffernn&style=flat-square&color=blue" alt="Profile Views" />
 </div>
